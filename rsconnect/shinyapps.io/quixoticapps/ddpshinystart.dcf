@@ -1,0 +1,11 @@
+name: ddpshinystart
+title: DDPShinyStart
+account: quixoticapps
+server: shinyapps.io
+appId: 201088
+bundleId: 924194
+url: https://quixoticapps.shinyapps.io/ddpshinystart/
+when: 1501652758.55516
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: ppt.html|ppt.Rmd|expt/server.R|expt/ui.R
